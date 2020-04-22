@@ -1,0 +1,1 @@
+pdfpc car.pdf -s -d 5 -l 1 -n bottom
